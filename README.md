@@ -4,7 +4,6 @@ Developed with Visual Studio Code
 
 ---
 
-
 ###Techs
 |Tech|
 |----|
@@ -13,4 +12,3 @@ Developed with Visual Studio Code
 |Javascript|
 |Less|
 |Css|
-
